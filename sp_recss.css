@@ -1,0 +1,20 @@
+#myframe{
+	width: 100vw;
+	height: 100vh;
+	position:fixed;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+.panel {
+	width: 70vw;
+	margin:auto;
+	margin-top: 100px;
+	min-height: 60px;
+	background: white;
+	border-radius: 5px;
+	text-align: center;
+	font-family: Tahoma;
+	border: 2px solid #e7e7e7;
+}
